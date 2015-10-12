@@ -7,7 +7,7 @@ real data.
 
 ## License
 
-Copyright © 2015 ahobson
+Copyright © 2015 Andrew Hobson
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
